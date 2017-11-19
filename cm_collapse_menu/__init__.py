@@ -1,0 +1,1 @@
+import cm_collapse_menu
