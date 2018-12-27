@@ -27,10 +27,8 @@
         Module to Customize Menus to Collapse or Expand with Animation
  """,
     'version':'1.0',
-    'author': '3cDevs',
-    'website': 'http://www.3cdevs.com',
-    'price': 10,
-    'currency': 'EUR',
+    'author': 'CMPROJECT',
+    'website': '',
     'depends': [],
     'data': [
                 'cm_collapse_menu.xml',
